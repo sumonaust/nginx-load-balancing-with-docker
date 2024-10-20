@@ -1,6 +1,6 @@
  # Lnginx load balancing with docker
 
- <img src="nginx.jpg" class="center"/>
+ <img src="nginx.jpg"/>
 
  #### How to use :
  - To launch the APP, just open a terminal, go inside the unzipped folder, at the same level with docker-compose.yml, and execute : docker-compose up
